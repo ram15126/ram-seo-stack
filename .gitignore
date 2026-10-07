@@ -1,0 +1,17 @@
+# secrets and local config: never commit these
+.env
+.env.*
+*.env
+*.key
+*.pem
+credentials*.json
+
+# generated files
+__pycache__/
+*.pyc
+scored*.csv
+autocomplete*.csv
+
+# real brand work stays on your machine; only the empty template is published
+brands/*
+!brands/_template/

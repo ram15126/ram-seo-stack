@@ -1,0 +1,9 @@
+# Read from Google Keyword Planner ("Get search volume") on YYYY-MM-DD. Location: India. Window: last 12 months.
+# A range belongs to the day you read it. Re-read at the start of every round and never mix readings.
+# fit: 5 = a service you sell, 4 = a problem you fix, 3 = wider knowledge your buyers read, 2 = off positioning
+# The four example rows are real, from growwithram.in (read 4 Oct 2026). Replace them with your own.
+keyword,range,fit,mixed,page,note
+llms txt,1K-10K,4,no,/ai-search,example row
+domain authority,1K-10K,4,no,/blog,example row
+seo audit checklist,100-1K,5,no,/free-seo-audit,example row
+core web vitals,1K-10K,3,no,/blog,example row
