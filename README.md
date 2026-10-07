@@ -1,4 +1,4 @@
-# Claude SEO Stack
+# Ram SEO Stack
 
 The SEO workflow I run with **Claude Code**: keyword research, audits, AI-search checks and content. It starts with Google's free tools, and every output gets checked by a human.
 
